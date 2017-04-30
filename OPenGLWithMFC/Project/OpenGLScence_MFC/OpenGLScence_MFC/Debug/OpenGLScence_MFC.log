@@ -1,0 +1,60 @@
+﻿生成启动时间为 2017/4/30 20:48:27。
+     1>项目“D:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\OPenGLWithMFC\Project\OpenGLScence_MFC\OpenGLScence_MFC\OpenGLScence_MFC.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\OPenGLWithMFC\Project\OpenGLScence_MFC\OpenGLScence_MFC\\" /I../../../include/GL /I../../../include /I../../../include/MathAPIKernel_VS /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\OpenGLScence_MFC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\OPenGLWithMFC\Project\OpenGLScence_MFC\OpenGLScence_MFC\\" /I../../../include/GL /I../../../include /I../../../include/MathAPIKernel_VS /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OpenGLScence_MFC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\MathAPIKernel_VS\Matrix4D.cpp ..\..\..\src\MathAPIKernel_VS\Position3D.cpp ..\..\..\src\MathAPIKernel_VS\Vector3D.cpp ClassView.cpp FileView.cpp MainFrm.cpp OpenGLScence_MFC.cpp OpenGLScence_MFCDoc.cpp OpenGLScence_MFCView.cpp OutputWnd.cpp PropertiesWnd.cpp RoamingScenceManager.cpp ViewTree.cpp
+         ViewTree.cpp
+         RoamingScenceManager.cpp
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\project\openglscence_mfc\openglscence_mfc\roamingscencemanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         PropertiesWnd.cpp
+         OutputWnd.cpp
+         OpenGLScence_MFCView.cpp
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\project\openglscence_mfc\openglscence_mfc\roamingscencemanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         OpenGLScence_MFCDoc.cpp
+         OpenGLScence_MFC.cpp
+         MainFrm.cpp
+         FileView.cpp
+         ClassView.cpp
+         Vector3D.cpp
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\vector3d.cpp(54): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\vector3d.cpp(67): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\vector3d.cpp(68): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\vector3d.cpp(69): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+         Position3D.cpp
+         Matrix4D.cpp
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(69): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(93): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(267): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(271): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(275): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(286): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(291): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(296): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(335): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\openglwithmfc\src\mathapikernel_vs\matrix4d.cpp(365): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\OpenGLScence_MFC.res" OpenGLScence_MFC.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\OPenGLWithMFC\Project\OpenGLScence_MFC\Debug\OpenGLScence_MFC.exe" /INCREMENTAL /NOLOGO /LIBPATH:../../../lib/lib_VS glew32.lib glut.lib glut32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\OPenGLWithMFC\Project\OpenGLScence_MFC\Debug\OpenGLScence_MFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\OPenGLWithMFC\Project\OpenGLScence_MFC\Debug\OpenGLScence_MFC.lib" /MACHINE:X86 Debug\OpenGLScence_MFC.res
+         Debug\Matrix4D.obj
+         Debug\Position3D.obj
+         Debug\Vector3D.obj
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\OpenGLScence_MFC.obj
+         Debug\OpenGLScence_MFCDoc.obj
+         Debug\OpenGLScence_MFCView.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\RoamingScenceManager.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+         OpenGLScence_MFC.vcxproj -> D:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\OPenGLWithMFC\Project\OpenGLScence_MFC\Debug\OpenGLScence_MFC.exe
+     1>已完成生成项目“D:\作业，课件\计算机图形学\实验\实验二\201426020127_数媒1401_宁润_实验二\OPenGLWithMFC\Project\OpenGLScence_MFC\OpenGLScence_MFC\OpenGLScence_MFC.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:23.56
